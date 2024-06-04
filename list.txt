@@ -17,7 +17,6 @@
 	fbcdn.com
 	gateway.facebook.com		
 	giggletech.local	
-	security.ubuntu.com	
 	tracking-protection.prod.mozaws.net	
 	detectportal.firefox.com
 	crashlytics.com
