@@ -4,21 +4,11 @@
 	(\.|^)stats\.wp\.com$	
 	searchads.apple.com	
 	gce-auction21-prd.unityads.unity3d.com	
-	e.reddit.com	
 	cdn.cloudfrale.com	
 	cacheorcheck.mopinion.com	
 	connectivity-check.ubuntu.com	
 	cdn.pncloudfl.com	
 	c.adsco.re	
-	cdn61962044.ahacdn.me	
-	www.webhostingcouponscode.com	
-	rr1---sn-bvvbax4pcxg-hjp6.googlevideo.com	
-	www.google.com	
-	5.7.5.e.b.d.d.1.c.d.e.a.6.c.d.2.e.5.4.8.6.f.1.1.0.2.c.f.7.0.6.2.ip6.arpa	
-	spclient.wg.spotify.com	
-	go.loverslab.com	
-	go.microsoft.com	
-	developer.microsoft.com	
 	graph.oculus.com	
 	oculus.com	
 	securecdn.oculus.com	
