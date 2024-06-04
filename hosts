@@ -1,0 +1,10 @@
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts                                             Migrated from /etc/pihole/adlists.list      
+https://raw.githubusercontent.com/d3ward/toolz/master/src/d3host.txt                                         D3ward
+https://raw.githubusercontent.com/ZingyAwesome/easylists-for-pihole/master/easylist.txt                      Easylist
+https://raw.githubusercontent.com/ZingyAwesome/easylists-for-pihole/master/easyprivacy.txt                   EasyPrivacy
+https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt                                ads-and-tracking-extended
+https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/facebook/all                        GAFAM Facebook
+https://raw.githubusercontent.com/cedws/apple-telemetry/master/blacklist                                     GAFAM Apple
+https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/microsoft/all                       GAFAM Microsoft
+https://raw.githubusercontent.com/nickspaargaren/no-google/master/pihole-google.txt                          GAFAM Google
+https://gist.githubusercontent.com/wassname/b594c63222f9e4c83ea23c818440901b/raw/1b0afd2aecf3a099f1681b1cf18fc0e6e2fa116a/Samsung%2520Smart-TV%2520Blocklist%2520Adlist%2520(for%2520PiHole) Samsung
