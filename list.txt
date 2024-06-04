@@ -1,4 +1,4 @@
-(\.|^)adtago\.s3\.amazonaws\.com$	
+	(\.|^)adtago\.s3\.amazonaws\.com$	
 	(\.|^)analyticsengine\.s3\.amazonaws\.com$	
 	(\.|^)analytics\.s3\.amazonaws\.com$	
 	(\.|^)stats\.wp\.com$	
@@ -11,10 +11,14 @@
 	c.adsco.re	
 	graph.oculus.com	
 	oculus.com	
+	oculuscdn.com
 	securecdn.oculus.com	
-	graph.facebook-hardware.com	
+	facebook-hardware.com	
+	fbcdn.com
 	gateway.facebook.com		
 	giggletech.local	
 	security.ubuntu.com	
 	tracking-protection.prod.mozaws.net	
 	detectportal.firefox.com
+	crashlytics.com
+	fbsbx.com
